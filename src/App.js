@@ -10,12 +10,6 @@ const TodoTemplate = styled.div`
   border: 1px solid black;
 `;
 
-interface App {
-  id: number
-  text: string
-  checked: Boolean
-}
-
 const App = () => {
   const [todos, setTodos] = useState([{
     id: 1,
