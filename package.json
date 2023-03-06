@@ -49,5 +49,8 @@
   "main": "index.js",
   "author": "bongjun",
   "license": "ISC",
-  "homepage": "https://bongjunk.github.io/todo_list"
+  "homepage": "https://bongjunk.github.io/todo_list",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
